@@ -15,7 +15,7 @@
 - **Other:** UI/UX (Figma), Linux Administration  
 
 ## 📌 Pinned Projects  
-[🔗 Hospital Management System](https://github.com/raph4sure/Digital_Docotor)  
+[🔗 Hospital Management System](https://github.com/raph4sure/Digital_Doctor)  
 [🔗 Adventure & Tours Website](https://github.com/raph4sure/Tours-Website)  
 [🔗 Travel packing list](https://github.com/raph4sure/packing-list-using-react)  
 
