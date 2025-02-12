@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Alabi Raphael! 👋  
+**Software Engineer | Full Stack Software Developer  | Data Analyst**  
 
-<!--
-**Raph4sure/raph4sure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate about building **scalable web & mobile applications**.  
+💻 Skilled in **JavaScript, Node.js, React, Flutter, and MySQL**.  
+🔍 Always learning **new technologies** and improving my **problem-solving skills**.  
 
-Here are some ideas to get you started:
+## 🚀 Skills  
+- **Programming Languages:** JavaScript, Python (Proficient), C, Dart (Currently Learning) 
+- **Frontend:** HTML, CSS, SCSS, JavaScript, React  
+- **Backend:** Node.js, Express.js  
+- **Database:** MySQL, MongoDB  
+- **Mobile Development:** Flutter, Dart  
+- **Version Control:** Git, GitHub  
+- **Other:** UI/UX (Figma), Linux Administration  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Pinned Projects  
+[🔗 Hospital Management System](https://github.com/raph4sure/Digital_Docotor)  
+[🔗 Adventure & Tours Website](https://github.com/raph4sure/Tours-Website)  
+[🔗 Travel packing list](https://github.com/raph4sure/packing-list-using-react)  
+
+## 📫 Contact Me  
+📧 Email: Raph4sure007@gmail.com  
+🌐 Portfolio: [raphweb.com](https://www.raphweb.com)  
+📍 Lagos, Nigeria | Taraba Nigeria
+
