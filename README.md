@@ -7,17 +7,17 @@
 
 ## 🚀 Skills  
 - **Programming Languages:** JavaScript, Python (Proficient), C, Dart (Currently Learning) 
-- **Frontend:** HTML, CSS, SCSS, JavaScript, React  
+- **Frontend:** HTML, CSS, SCSS, JavaScript, React(React Router, React Query, Redux, Context API)
 - **Backend:** Node.js, Express.js  
 - **Database:** MySQL, MongoDB  
-- **Mobile Development:** Flutter, Dart  
+- **Mobile Development:** Dart with Flutter 
 - **Version Control:** Git, GitHub  
 - **Other:** UI/UX (Figma), Linux Administration  
 
 ## 📌 Pinned Projects  
 [🔗 Hospital Management System](https://github.com/raph4sure/Digital_Doctor)  
 [🔗 Adventure & Tours Website](https://github.com/raph4sure/Tours-Website)  
-[🔗 Travel packing list](https://github.com/raph4sure/packing-list-using-react)  
+[🔗 Pizza Shopping](https://github.com/Raph4sure/Pizza-Shopping)  
 
 ## 📫 Contact Me  
 📧 Email: Raph4sure007@gmail.com  
