@@ -9,7 +9,7 @@
 - **Programming Languages:** JavaScript, Python (Proficient), C, Dart (Currently Learning) 
 - **Frontend:** HTML, CSS, SCSS, CSS modules, Tailwind CSS, CSS preprocessor, JavaScript, React(React Router, React Query, Redux, Context API)
 - **Backend:** Node.js, Express.js, Supabase  
-- **Database:** MySQL, MongoDB  
+- **Database:** MySQL, MongoDB, Supabase(PostgreSQL).
 - **Mobile Development:** Dart with Flutter 
 - **Version Control:** Git, GitHub  
 - **Other:** UI/UX (Figma), Linux Administration  
