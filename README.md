@@ -7,8 +7,8 @@
 
 ## 🚀 Skills  
 - **Programming Languages:** JavaScript, Python (Proficient), C, Dart (Currently Learning) 
-- **Frontend:** HTML, CSS, SCSS, JavaScript, React(React Router, React Query, Redux, Context API)
-- **Backend:** Node.js, Express.js  
+- **Frontend:** HTML, CSS, SCSS, CSS modules, Tailwind CSS, CSS preprocessor, JavaScript, React(React Router, React Query, Redux, Context API)
+- **Backend:** Node.js, Express.js, Supabase  
 - **Database:** MySQL, MongoDB  
 - **Mobile Development:** Dart with Flutter 
 - **Version Control:** Git, GitHub  
