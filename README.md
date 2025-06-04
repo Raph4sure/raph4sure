@@ -20,7 +20,7 @@
 ## 📌 Pinned Projects  
 [🔗 Hospital Management System](https://github.com/raph4sure/Digital_Doctor)  
 [🔗 Adventure & Tours Website](https://github.com/raph4sure/Tours-Website)  
-[🔗 Pizza Shopping](https://github.com/Raph4sure/Pizza-Shopping)  
+[🔗 Naija-Hotel](https://github.com/Raph4sure/NaijaStay-Hotel-And-Suites)  
 
 ## 📫 Contact Me  
 📧 Email: Raph4sure007@gmail.com  
