@@ -8,7 +8,7 @@
 ## 🚀 Skills  
 - **Programming Languages:** JavaScript, Python (Proficient), C, Dart (Currently Learning) 
 - **Frontend:**  
-  - Markup & Styling: HTML, CSS, SCSS, CSS Modules, CSS Preprocessor  
+  - Markup & Styling: HTML, CSS, SCSS, CSS Modules, Styled Components. 
   - Frameworks & Utilities: Tailwind CSS  
   - JavaScript & Libraries: JavaScript, React (React Router, React Query, Redux, Context API)
 - **Backend:** Node.js, Express.js, Supabase  
