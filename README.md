@@ -1,4 +1,4 @@
-# Hi there, I'm Alabi Raphael! 👋  
+# Hi there 👋, I'm Alabi Raphael! 
 **Software Engineer | Full Stack Software Developer  | Data Analyst**  
 
 🚀 Passionate about building **scalable web & mobile applications**.  
