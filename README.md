@@ -112,16 +112,15 @@
 </p>
 
 <h2>📌 Pinned Projects  </h2>
-<!-- 🔗 Hospital Management System [Digital Doctor](https://digital-doctor.onrender.com) — A telemedicine platform bridging the gap between patients and remote healthcare. -->
 
-- Hospital Management System [Digital Doctor](https://digital-doctor.onrender.com) — Hospital Management System: A comprehensive telemedicine platform designed to bridge the gap between patients and healthcare providers. It features real-time appointment scheduling, patient records management, and remote consultations. Built with Ejs, Node.js, Express, and MySQL, with a mobile version currently being developed using React Native.
+- Hospital Management System [Digital Doctor](https://digital-doctor.onrender.com) — Hospital Management System: A comprehensive telemedicine platform designed to bridge the gap between patients and healthcare providers. It features real-time appointment scheduling, patient records management, and remote consultations. Built with Ejs, Node.js, Express, and MySQL, with a mobile version currently being developed using React Native. [Live Demo](https://digital-doctor.onrender.com)
 
 - Adventure & Tours [Adventure & Tours Website](https://github.com/raph4sure/Tours-Website)  — A full-stack booking platform where users can explore available travel packages, manage bookings, and view detailed itineraries, built with Node.js, Express, MongoDB, and Pug.
 
-- NaijaStay [Naija-Hotel Website](https://github.com/Raph4sure/NaijaStay-Hotel-And-Suites) —  A luxury hotel reservation and management interface featuring a seamless booking experience and responsive UI. Built with React, Vite, and Tailwind CSS.
+- NaijaStay [Naija-Hotel Website](https://github.com/Raph4sure/NaijaStay-Hotel-And-Suites) —  A luxury hotel reservation and management interface featuring a seamless booking experience and responsive UI. Built with React, Vite, and Tailwind CSS. [Live Demo](http://naijastay.netlify.app)
   
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raph4sure&show_icons=true&locale=en&layout=compact" alt="raph4sure" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raph4sure&show_icons=true&locale=en&layout=compact" alt="raph4sure" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raph4sure&show_icons=true&locale=en" alt="raph4sure" /></p>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raph4sure&show_icons=true&locale=en" alt="raph4sure" /></p> -->
+</br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raph4sure&" alt="raph4sure" /></p>
