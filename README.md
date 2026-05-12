@@ -7,19 +7,21 @@
 
 <p align="left"> <a href="https://twitter.com/raph4sure007" target="blank"><img src="https://img.shields.io/twitter/follow/raph4sure007?logo=twitter&style=for-the-badge" alt="raph4sure007" /></a> </p>
 
-- 🔭 I’m currently working on [Digital Doctor — A telemedicine platform bridging the gap between patients and remote healthcare.](https://digital-doctor.onrender.com)
+- 🔭 I’m currently working on [Digital Doctor](https://digital-doctor.onrender.com) — A telemedicine platform bridging the gap between patients and remote healthcare.
 
 - 🌱 I’m currently learning **Devops**
 
-- 👯 I’m looking to collaborate on [Digital Doctor - Using React-Native to create the web and mobile version of the platform.](https://digital-doctor.onrender.com)
+- 👯 I’m looking to collaborate on [Digital Doctor](https://digital-doctor.onrender.com) - Using React-Native to create the web and mobile version of the platform.
 
-- 👨‍💻 All of my projects are available at [https://github.com/Raph4sure](https://github.com/Raph4sure)
+- 👨‍💻 All of my projects are available at [My Github](https://github.com/Raph4sure)
 
 - 💬 Ask me about **Javascript, React, React-Native, Next.js, Node.js .**
 
 - 📫 How to reach me **raph4sure007@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1TxCywD6OBwkSUB5BNM6MIbQGDHhejgnQ/view](https://drive.google.com/file/d/1TxCywD6OBwkSUB5BNM6MIbQGDHhejgnQ/view)
+- 📄 Know more about my experiences [View My Resume](https://drive.google.com/file/d/1TxCywD6OBwkSUB5BNM6MIbQGDHhejgnQ/view)
+
+- 🌐 Want to view my Portfolio: [visit raphweb.tech](https://www.raphweb.tech)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
