@@ -92,6 +92,8 @@
     <td style="border: none;"><strong>DevOps & Automation</strong></td>
     <td style="border: none;" colspan="13">
       <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="30" height="30"/> </a>
+<a href="https://n8n.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" height="30"/></a>
+    <a href="https://www.make.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Make.com-4331EC?style=for-the-badge&logo=make&logoColor=white" alt="Make" height="30"/></a>
       <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/> </a>
       <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="30" height="30"/> </a>
       <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="30" height="30"/> </a>
